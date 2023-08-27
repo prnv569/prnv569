@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **Cyber Security and Penetration Testing**
 
+- 👨‍💻 All of my projects are available at [https://github.com/prnv569?tab=repositories](https://github.com/prnv569?tab=repositories)
+
 - 💬 Ask me about **Penetration Testing , Python and Cloud Computing**
 
 - 📫 How to reach me **pranavsingh569@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-singh-28566a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-singh-28566a204/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@pranav-singh-28566a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@pranav-singh-28566a204/" height="30" width="40" /></a>
 <a href="https://medium.com/@pranavsingh569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranavsingh569" height="30" width="40" /></a>
 </p>
 
